@@ -1,5 +1,3 @@
-# smart-hydroponics-valve-system
-Smart Hydroponics and Automatic Valve Control System using Arduino Uno, Servo, and Relay. Simulated in Wokwi.
 # Smart Hydroponics / Automatic Valve Control System 🌱⚡
 
 An automated smart agriculture irrigation system designed to optimize water usage in hydroponic systems. This project monitors moisture thresholds and manages a high-torque fluid control valve with integrated electrical hardware safety.
@@ -36,7 +34,7 @@ The embedded software written in optimized C++ features:
 ## 🚀 Virtual Lab Deployment
 This project has been fully developed, wired, and verified in a virtual simulation environment. You can run and test the circuit logic live without physical hardware:
 
-👉 **[CLICK HERE TO RUN THE SIMULATION LIVE IN WOKWI](PEGA_AQUI_EL_LINK_DE_TU_PROYECTO_DE_WOKWI)**
+👉 **[CLICK HERE TO RUN THE SIMULATION LIVE IN WOKWI](https://wokwi.com/projects/475987542667790337)**
 
 ---
 *Looking for customized firmware architecture or professional circuit design? Let's build your next embedded solution together.*
